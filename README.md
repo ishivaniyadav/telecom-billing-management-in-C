@@ -17,8 +17,6 @@ With this system, you can perform various telecom-style billing operations such 
 * 🔍 Search for a subscriber using their phone number
 * 💳 Process a payment by entering the phone number (no name required)
 
-All changes are stored in a **binary file (`telecom.txt`)**, making the data persistent between sessions.
-
 ---
 
 ### 📂 How It Works
